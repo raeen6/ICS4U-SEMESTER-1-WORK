@@ -1,4 +1,10 @@
-num = int(input("Please enter an integer greater than 1: "))
+num_checker = False
+
+if num_checker = True: 
+    num = int(input("Please enter an integer greater than 1: "))
+    if num > 0:
+        num_checker = True
+
 
 prime = True
 
