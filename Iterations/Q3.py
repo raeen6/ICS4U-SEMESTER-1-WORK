@@ -1,9 +1,9 @@
-num_checker = False
+num_checker = True
 
-if num_checker = True: 
+while num_checker: 
     num = int(input("Please enter an integer greater than 1: "))
     if num > 0:
-        num_checker = True
+        num_checker = False
 
 
 prime = True
